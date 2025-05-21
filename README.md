@@ -98,11 +98,11 @@ Outside of tech, I enjoy diving into music production and digital art — always
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taiinyy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zSnowww&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taiinyy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zSnowww&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ Outside of tech, I enjoy diving into music production and digital art — always
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taiinyy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zSnowww&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -118,11 +118,11 @@ Outside of tech, I enjoy diving into music production and digital art — always
 ### 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/Taiinyy/Ye-Quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Taiinyy&repo=Ye-Quotes&theme=radical" />
+  <a href="https://github.com/zSnowww/Ye-Quotes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zSnowww&repo=Ye-Quotes&theme=radical" />
   </a>
-  <a href="https://github.com/Taiinyy/FirstDataV1   ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Taiinyy&repo=FirstDataV1&theme=radical" />
+  <a href="https://github.com/zSnowww/FirstDataV1   ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zSnowww&repo=FirstDataV1&theme=radical" />
   </a>
 </div>
 
@@ -131,7 +131,7 @@ Outside of tech, I enjoy diving into music production and digital art — always
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taiinyy&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zSnowww&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
@@ -147,7 +147,7 @@ Outside of tech, I enjoy diving into music production and digital art — always
 ---
 
 <div align="center">
-  <p align="center"><img src="https://profile-counter.glitch.me/{Taiinyy}/count.svg" alt="Profile VIews" /></p>
+  <p align="center"><img src="https://profile-counter.glitch.me/{zSnowww}/count.svg" alt="Profile VIews" /></p>
 </div>
 
 <div align="center">
