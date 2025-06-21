@@ -102,7 +102,7 @@ Outside of tech, I enjoy diving into music production and digital art — always
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zSnowww&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zsnowww&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 ---
