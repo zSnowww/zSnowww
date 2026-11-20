@@ -1,157 +1,125 @@
-<h1 align="center">Hi 👋, I'm Manu (𝐳𝐒𝐧𝐨𝐰!)</h1>
-<h3 align="center">Systems Engineering Student & Passionate Backend Developer</h3>
+<div align="center">
+
+<img src="https://fluxstats-beta.vercel.app/api/decor/terminal?prompt=zsnow@arch%20~%20$&title=zsh%20%E2%80%94%20zsnow.dev&width=760&lines=Backend%20%26%20systems%20developer%3BHigh-concurrency%20APIs%20with%20FastAPI%3BLocal-first%20apps%20with%20Tauri%20%2B%20Rust%3BTelegram%20automation%20over%20MTProto&theme=ryoku&accent_color=e2342a" width="760" alt="zsnow@arch ~ $ Backend &amp; systems developer · High-concurrency APIs · Local-first apps · Telegram automation">
+
+<p>
+  <strong>力と設計のために</strong> &middot; <em>For the sake of power and clean architecture.</em>
+</p>
+
+<p>
+  Backend Developer &amp; Systems Engineering Student based in Lima, Perú 🇵🇪.<br>
+  Crafting high-concurrency APIs, local-first applications, and intelligent automation systems.
+</p>
+
+<a href="https://zsnow.dev"><img src="https://fluxstats-beta.vercel.app/api/decor/badge?icon=globe&label=Web&value=zsnow.dev&theme=ryoku&accent_color=e2342a" alt="Web: zsnow.dev"></a>&nbsp;
+<a href="https://t.me/zsnow_7"><img src="https://fluxstats-beta.vercel.app/api/decor/badge?icon=telegram&label=Telegram&value=@zsnow_7&theme=ryoku&accent_color=e2342a" alt="Telegram: @zsnow_7"></a>&nbsp;
+<a href="https://instagram.com/veraaab_"><img src="https://fluxstats-beta.vercel.app/api/decor/badge?icon=instagram&label=Instagram&value=@veraaab_&theme=ryoku&accent_color=e2342a" alt="Instagram: @veraaab_"></a>
+
+</div>
+
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%9B%BB%E8%84%B3%E8%AA%BF%E6%9B%B8&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
+
+## `$ fastfetch --profile dossier` &middot; 電脳調書
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Engineering+Student+by+Day;Backend+Dev+by+Night;Telegram+Bot+Artisan;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="assets/whoami-ryoku.svg" width="960" alt="System dossier de Manu (zSnow) con estética Ryoku Arch">
+</p>
+
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E6%8A%80%E8%A1%93%E6%A7%8B%E6%88%90&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
+
+## `$ cat /etc/ryoku/tech-stack.yaml` &middot; 技術構成
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left">
+        <code>zsnow@arch:~$ cat /etc/ryoku/tech-stack.yaml &nbsp;·&nbsp; status: 稼働中</code>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <code>├─ ⚙ backend_systems:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=fastapi,python,rust,nodejs,ts" alt="FastAPI, Python, Rust, Node.js, TypeScript">
+      </td>
+      <td width="50%" valign="top">
+        <code>├─ 🖥️ desktop_localfirst:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=tauri,react,nextjs,vite" alt="Tauri, React, Next.js, Vite">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <code>├─ ▣ databases_cache:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,mongodb" alt="PostgreSQL, Redis, Supabase, MongoDB">
+      </td>
+      <td valign="top">
+        <code>╰─ ☁ infrastructure_ops:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions" alt="Docker, Linux, Nginx, GitHub Actions">
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2">
+        <code>env: production&nbsp;&nbsp;·&nbsp;&nbsp;runtime: archlinux-zen&nbsp;&nbsp;·&nbsp;&nbsp;zen: 力と美のために</code>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
+
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
+
+## `$ cat /var/projects/dossier.md` &middot; 主要プロジェクト
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>zsnow:~$ list-projects --status featured &nbsp;·&nbsp; 選抜プロジェクト</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 <a href="https://aether.zsnow.dev">Aether OS</a> &middot; <code>個人システム</code></h3>
+        <p>Sistema personal <strong>Local-First</strong> para operaciones, finanzas e infraestructura; disponible como aplicación web y de escritorio.</p>
+        <img src="https://skillicons.dev/icons?i=react,ts,tauri,supabase" alt="React, TypeScript, Tauri, Supabase"><br><br>
+        🌐 <a href="https://aether.zsnow.dev"><strong>aether.zsnow.dev</strong></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📱 <a href="https://github.com/zSnowww/AetherRelay">Aether Relay</a> &middot; <code>画面ミラー</code></h3>
+        <p>Aplicación de escritorio multiplataforma para reflejar pantalla de Android con baja latencia y control físico de teclado y ratón.</p>
+        <img src="https://skillicons.dev/icons?i=tauri,rust,nextjs,react" alt="Tauri, Rust, Next.js, React"><br><br>
+        📦 <a href="https://github.com/zSnowww/AetherRelay"><strong>GitHub Repo</strong></a> &middot; <a href="https://github.com/zSnowww/AetherRelay/releases"><strong>Releases</strong></a>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>ポートフォリオ詳細: <a href="https://zsnow.dev/#proyectos">https://zsnow.dev/#proyectos</a></code></td>
+    </tr>
+  </tfoot>
+</table>
+
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%96%8B%E7%99%BA%E7%B5%B1%E8%A8%88&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
+
+## `$ github-activity --stats` &middot; 開発統計
+
+<p align="center">
+  <img src="https://fluxstats-beta.vercel.app/api/github/profile?username=zSnowww&theme=ryoku&accent_color=e2342a" width="720" alt="GitHub stats, top languages and contribution streak for zSnowww">
 </p>
 
 <p align="center">
-  <a href="https://Instagram.com/veraaab_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/veraaab_?logo=instagram&style=for-the-badge" alt="@veraaab_" />
-  </a>
+  <img src="https://fluxstats-beta.vercel.app/api/github/contributions?username=zSnowww&theme=ryoku&accent_color=e2342a" width="720" alt="Contribution calendar for the past year">
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 Studying **Systems Engineering**
-- 💡 Building **Telegram bots** that automate and inspire
-- 🔧 Passionate about **backend development** and clean architecture
-- 🌱 Currently learning **Docker, FastAPI, and Cloud integrations**
-- 🌐 Portfolio coming soon!
-
-<details>
-<summary>More about me</summary>
-<br>
-I’m someone who loves solving problems with code. From smart Telegram bots to robust APIs, I build tools that are practical and fun.
-Outside of tech, I enjoy diving into music production and digital art — always finding ways to blend logic with creativity.
-</details>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-
-<details>
-<summary>💻 More Skills</summary>
-<br>
-
-<h4>Backend</h4>
-
-```
-- Node.js
-- Express.js
-- Python
-- API Development
-- Telegram Bot API
-```
-
-<h4>Databases</h4>
-
-```
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
-```
-
-<h4>DevOps</h4>
-
-```
-- Git
-- Docker
-- CI/CD
-- Linux
-```
-
-</details>
-
----
-
-### 📊 GitHub Stats
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%9B%AA&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zSnowww&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zsnowww&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zSnowww&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/zSnowww/Ye-Quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zSnowww&repo=Ye-Quotes&theme=radical" />
-  </a>
-  <a href="https://github.com/zSnowww/FirstDataV1   ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zSnowww&repo=FirstDataV1&theme=radical" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zSnowww&theme=radical" alt="Contribution Graph" />
-</div>
-
----
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://t.me/zSnoww" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yourusername" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <p align="center"><img src="https://profile-counter.glitch.me/{zSnowww}/count.svg" alt="Profile VIews" /></p>
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting my profile! Have a great day!** 😊
-  
+<sub>力と美のために &middot; Crafted with discipline, code &amp; paper-ink aesthetics by Manu (zSnow) &middot; @zSnowww<br>
+Cards by <a href="https://fluxstats-beta.vercel.app">FluxStats</a></sub>
 </div>

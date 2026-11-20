@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Manu (zSnow) — Arch Linux &amp; Japanese Cyber Dossier</title>
+  <desc id="desc">System dossier and profile card for Manu (zSnow), inspired by Ryoku Arch Linux aesthetics.</desc>
+  <defs>
+    <linearGradient id="crimsonGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E2342A"/>
+      <stop offset="100%" stop-color="#FF5A36"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58E1C2"/>
+      <stop offset="100%" stop-color="#7E9CD8"/>
+    </linearGradient>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58E1C2" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#58E1C2" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Frame Background -->
+  <rect width="960" height="420" rx="16" fill="#0C0D12"/>
+  <rect x="8" y="8" width="944" height="404" rx="12" fill="none" stroke="#222533" stroke-width="1.5"/>
+  <rect x="8" y="8" width="944" height="404" rx="12" fill="none" stroke="url(#crimsonGrad)" stroke-width="1.5" stroke-dasharray="40 180 60 220 50 160" opacity="0.85"/>
+
+  <!-- Window Chrome Header -->
+  <circle cx="34" cy="34" r="5" fill="#E2342A"/>
+  <circle cx="52" cy="34" r="5" fill="#E5C07B"/>
+  <circle cx="70" cy="34" r="5" fill="#58E1C2"/>
+
+  <!-- Header Prompt -->
+  <text x="96" y="39" fill="#8B90A5" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="14">zsnow@archlinux  ~  fastfetch --profile dossier</text>
+  <text x="926" y="39" text-anchor="end" fill="#E2342A" font-family="'Noto Sans JP', 'Hiragino Sans', 'JetBrains Mono', sans-serif" font-weight="700" font-size="13">力と美のために · 雪</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="58" x2="936" y2="58" stroke="#1E202C" stroke-width="1"/>
+
+  <!-- Left Panel: Fastfetch Terminal Dossier -->
+  <g transform="translate(32, 76)">
+    <!-- Terminal Box -->
+    <rect width="576" height="312" rx="10" fill="#11131B" stroke="#1F2230" stroke-width="1.2"/>
+
+    <!-- Command prompt -->
+    <text x="24" y="36" fill="#58E1C2" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="17" font-weight="700">❯ fastfetch</text>
+    <text x="164" y="36" fill="#EDE7DF" font-family="'Noto Sans JP', 'JetBrains Mono', monospace" font-size="16" font-weight="600">manu@zsnow.dev</text>
+    <text x="352" y="36" fill="#E2342A" font-family="'Noto Sans JP', sans-serif" font-weight="900" font-size="15">【雪】</text>
+
+    <line x1="24" y1="52" x2="552" y2="52" stroke="#1C1E2A" stroke-width="1"/>
+
+    <!-- Dossier Key-Values -->
+    <g font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13.5">
+      <!-- Row 1 -->
+      <text x="24" y="80" fill="#E2342A" font-weight="700">os</text>
+      <text x="130" y="80" fill="#8B90A5">·</text>
+      <text x="150" y="80" fill="#EDE7DF">Arch Linux x86_64 (Wayland / Hyprland)</text>
+
+      <!-- Row 2 -->
+      <text x="24" y="108" fill="#E2342A" font-weight="700">host</text>
+      <text x="130" y="108" fill="#8B90A5">·</text>
+      <text x="150" y="108" fill="#58E1C2">Aether OS (Local-First Architecture)</text>
+
+      <!-- Row 3 -->
+      <text x="24" y="136" fill="#E2342A" font-weight="700">role</text>
+      <text x="130" y="136" fill="#8B90A5">·</text>
+      <text x="150" y="136" fill="#EDE7DF">Backend &amp; Systems Developer</text>
+
+      <!-- Row 4 -->
+      <text x="24" y="164" fill="#E2342A" font-weight="700">origin</text>
+      <text x="130" y="164" fill="#8B90A5">·</text>
+      <text x="150" y="164" fill="#7E9CD8">Lima, PE 🇵🇪 · Systems Engineering 🎓</text>
+
+      <!-- Row 5 -->
+      <text x="24" y="192" fill="#E2342A" font-weight="700">backend</text>
+      <text x="130" y="192" fill="#8B90A5">·</text>
+      <text x="150" y="192" fill="#EDE7DF">FastAPI · Python · Quart · Node.js · TypeScript</text>
+
+      <!-- Row 6 -->
+      <text x="24" y="220" fill="#E2342A" font-weight="700">desktop</text>
+      <text x="130" y="220" fill="#8B90A5">·</text>
+      <text x="150" y="220" fill="#EDE7DF">Tauri 2 · Rust · React · Next.js · ADB</text>
+
+      <!-- Row 7 -->
+      <text x="24" y="248" fill="#E2342A" font-weight="700">data/ops</text>
+      <text x="130" y="248" fill="#8B90A5">·</text>
+      <text x="150" y="248" fill="#EDE7DF">PostgreSQL · Redis · Supabase · Docker · Linux</text>
+
+      <!-- Row 8 -->
+      <text x="24" y="276" fill="#E2342A" font-weight="700">mission</text>
+      <text x="130" y="276" fill="#8B90A5">·</text>
+      <text x="150" y="276" fill="#E5C07B">力と設計のために (For power &amp; clean design)</text>
+
+      <!-- Row 9: Color palette pellets -->
+      <circle cx="28" cy="298" r="4.5" fill="#0C0D12"/>
+      <circle cx="44" cy="298" r="4.5" fill="#E2342A"/>
+      <circle cx="60" cy="298" r="4.5" fill="#E5C07B"/>
+      <circle cx="76" cy="298" r="4.5" fill="#58E1C2"/>
+      <circle cx="92" cy="298" r="4.5" fill="#7E9CD8"/>
+      <circle cx="108" cy="298" r="4.5" fill="#EDE7DF"/>
+      <text x="130" y="302" fill="#676B80" font-size="11">ryoku-palette · bone-type · obsidian-ink</text>
+    </g>
+  </g>
+
+  <!-- Right Panel: Japanese Minimalist Cyber & Hanko Stamp -->
+  <g transform="translate(628, 76)">
+    <!-- Right Container Box -->
+    <rect width="300" height="312" rx="10" fill="#11131B" stroke="#1F2230" stroke-width="1.2"/>
+
+    <!-- Subtle Cyber Sun / Crest -->
+    <circle cx="150" cy="115" r="54" fill="none" stroke="#E2342A" stroke-width="1.5" opacity="0.4"/>
+    <circle cx="150" cy="115" r="42" fill="url(#crimsonGrad)" opacity="0.15"/>
+    <circle cx="150" cy="115" r="32" fill="#E2342A" opacity="0.9" filter="url(#crimsonGlow)"/>
+
+    <!-- Hanko Seal in Sun center: Kanji 雪 (Snow) -->
+    <text x="150" y="126" text-anchor="middle" fill="#EDE7DF" font-family="'Noto Sans JP', 'Hiragino Sans', sans-serif" font-weight="900" font-size="34">雪</text>
+
+    <!-- Japanese Vertical Calligraphy Accents -->
+    <g font-family="'Noto Sans JP', 'Hiragino Sans', sans-serif" font-size="13" font-weight="700">
+      <!-- Left vertical text: 電脳工学 (Cyber Engineering) -->
+      <text x="46" y="70" fill="#8B90A5" text-anchor="middle">電</text>
+      <text x="46" y="90" fill="#8B90A5" text-anchor="middle">脳</text>
+      <text x="46" y="110" fill="#8B90A5" text-anchor="middle">工</text>
+      <text x="46" y="130" fill="#8B90A5" text-anchor="middle">学</text>
+
+      <!-- Right vertical text: 雪の道 (The Way of Snow) -->
+      <text x="254" y="70" fill="#E2342A" text-anchor="middle">雪</text>
+      <text x="254" y="90" fill="#E2342A" text-anchor="middle">の</text>
+      <text x="254" y="110" fill="#E2342A" text-anchor="middle">道</text>
+    </g>
+
+    <!-- Mountain Silhouette lines (Fuji / Peaks) -->
+    <path d="M40 215 L110 165 L150 185 L190 155 L260 215" fill="none" stroke="#58E1C2" stroke-width="1.8" opacity="0.75"/>
+    <path d="M60 215 L125 178 L150 192 L175 172 L240 215" fill="none" stroke="#7E9CD8" stroke-width="1" opacity="0.5"/>
+
+    <!-- Cyber Grid at bottom -->
+    <line x1="30" y1="215" x2="270" y2="215" stroke="#58E1C2" stroke-width="1.2" opacity="0.8"/>
+    <line x1="30" y1="225" x2="270" y2="225" stroke="#58E1C2" stroke-width="0.8" opacity="0.5"/>
+    <line x1="30" y1="235" x2="270" y2="235" stroke="#58E1C2" stroke-width="0.6" opacity="0.3"/>
+
+    <!-- Perspective grid diagonals -->
+    <line x1="50" y1="215" x2="30" y2="245" stroke="#58E1C2" stroke-width="0.8" opacity="0.4"/>
+    <line x1="100" y1="215" x2="85" y2="245" stroke="#58E1C2" stroke-width="0.8" opacity="0.4"/>
+    <line x1="150" y1="215" x2="150" y2="245" stroke="#58E1C2" stroke-width="0.8" opacity="0.4"/>
+    <line x1="200" y1="215" x2="215" y2="245" stroke="#58E1C2" stroke-width="0.8" opacity="0.4"/>
+    <line x1="250" y1="215" x2="270" y2="245" stroke="#58E1C2" stroke-width="0.8" opacity="0.4"/>
+
+    <!-- Bottom Status Card -->
+    <rect x="25" y="260" width="250" height="38" rx="6" fill="#0C0D12" stroke="#1F2230" stroke-width="1"/>
+    <circle cx="42" cy="279" r="4" fill="#58E1C2"/>
+    <text x="56" y="283" fill="#EDE7DF" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="12" font-weight="600">online · zsnow.dev</text>
+    <text x="260" y="283" text-anchor="end" fill="#E2342A" font-family="'JetBrains Mono', monospace" font-size="12">v2026.1</text>
+  </g>
+</svg>
