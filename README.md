@@ -22,7 +22,7 @@
 ## `$ fastfetch --profile dossier` &middot; 電脳調書
 
 <p align="center">
-  <img src="assets/whoami-ryoku.svg" width="960" alt="System dossier de Manu (zSnow) con estética Ryoku Arch">
+  <img src="assets/whoami-ryoku.svg" width="720" alt="System dossier de Manu (zSnow) con estética Ryoku Arch">
 </p>
 
 <p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E6%8A%80%E8%A1%93%E6%A7%8B%E6%88%90&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
