@@ -110,6 +110,10 @@
 ## `$ github-activity --stats` &middot; 開発統計
 
 <p align="center">
+  <img src="https://fluxstats-beta.vercel.app/api/github/building?username=zSnowww&amp;theme=ryoku&amp;accent_color=e2342a" width="450" alt="Currently building: repos públicos activos en los últimos 30 días y contribuciones privadas agrupadas">
+</p>
+
+<p align="center">
   <img src="https://fluxstats-beta.vercel.app/api/github/profile?username=zSnowww&theme=ryoku&accent_color=e2342a" width="720" alt="GitHub stats, top languages and contribution streak for zSnowww">
 </p>
 
