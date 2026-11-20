@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://fluxstats-beta.vercel.app/api/github/contributions?username=zSnowww&theme=ryoku&accent_color=e2342a" width="720" alt="Contribution calendar for the past year">
+  <img src="https://fluxstats-beta.vercel.app/api/github/contributions?username=zSnowww&type=activity&width=720&hide_stats=true&theme=ryoku&accent_color=e2342a" width="720" alt="Weekly contribution activity for the past year">
 </p>
 
 <p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%9B%AA&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>

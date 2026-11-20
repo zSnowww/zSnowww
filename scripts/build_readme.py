@@ -147,7 +147,7 @@ readme = f"""<div align="center">
 </p>
 
 <p align="center">
-  <img src="{url("/api/github/contributions", username=USER)}" width="720" alt="Contribution calendar for the past year">
+  <img src="{url("/api/github/contributions", username=USER, type="activity", width=720, hide_stats="true")}" width="720" alt="Weekly contribution activity for the past year">
 </p>
 
 {divider("雪")}
