@@ -117,6 +117,15 @@
   <img src="https://fluxstats-beta.vercel.app/api/github/contributions?username=zSnowww&type=activity&width=720&hide_stats=true&theme=ryoku&accent_color=e2342a" width="720" alt="Weekly contribution activity for the past year">
 </p>
 
+<p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%9F%B3%E6%A5%BD&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
+
+## `$ spotify --top --range 4w` &middot; 音楽
+
+<p align="center">
+  <a href="https://open.spotify.com/user/3133numsfqecr66umbasds6bzviq"><img src="https://fluxstats-beta.vercel.app/api/spotify/top-tracks?range=short&count=6&theme=ryoku&accent_color=e2342a" width="49%" alt="My top tracks on Spotify in the last 4 weeks"></a>
+  <a href="https://open.spotify.com/playlist/0WbVza5sgx4Xk7Mx6vAL09"><img src="https://fluxstats-beta.vercel.app/api/spotify/playlist?id=0WbVza5sgx4Xk7Mx6vAL09&theme=ryoku&accent_color=e2342a" width="49%" alt="Los mejores en esto. — Spotify playlist, recently added"></a>
+</p>
+
 <p align="center"><img src="https://fluxstats-beta.vercel.app/api/decor/divider?label=%E9%9B%AA&width=840&theme=ryoku&accent_color=e2342a" width="100%" alt=""></p>
 
 <div align="center">

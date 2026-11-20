@@ -5,6 +5,10 @@ from urllib.parse import urlencode, quote
 # Cambia BASE cuando FluxStats pase a tu dominio propio.
 BASE = sys.argv[1] if len(sys.argv) > 1 else "https://fluxstats-beta.vercel.app"
 USER = "zSnowww"
+# Spotify: perfil y playlist enlazados desde las cards (Spotify pide enlazar de vuelta).
+SPOTIFY_PROFILE = "https://open.spotify.com/user/3133numsfqecr66umbasds6bzviq"
+PLAYLIST_ID = "0WbVza5sgx4Xk7Mx6vAL09"
+SPOTIFY_PLAYLIST = f"https://open.spotify.com/playlist/{PLAYLIST_ID}"
 # Paleta del README: tema ryoku de FluxStats con el carmesí del dossier.
 STYLE = {"theme": "ryoku", "accent_color": "e2342a"}
 
@@ -148,6 +152,15 @@ readme = f"""<div align="center">
 
 <p align="center">
   <img src="{url("/api/github/contributions", username=USER, type="activity", width=720, hide_stats="true")}" width="720" alt="Weekly contribution activity for the past year">
+</p>
+
+{divider("音楽")}
+
+## `$ spotify --top --range 4w` &middot; 音楽
+
+<p align="center">
+  <a href="{SPOTIFY_PROFILE}"><img src="{url("/api/spotify/top-tracks", range="short", count=6)}" width="49%" alt="My top tracks on Spotify in the last 4 weeks"></a>
+  <a href="{SPOTIFY_PLAYLIST}"><img src="{url("/api/spotify/playlist", id=PLAYLIST_ID)}" width="49%" alt="Los mejores en esto. — Spotify playlist, recently added"></a>
 </p>
 
 {divider("雪")}
